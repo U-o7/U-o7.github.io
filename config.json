@@ -1,0 +1,66 @@
+{
+  "profile": {
+    "en": {
+      "name": "Nakamura Yuma",
+      "title": "Full Stack Developer & Designer",
+      "bio": "Creating elegant digital experiences with clean code and thoughtful design.",
+      "about": "Passionate developer with expertise in web technologies and modern design principles. I craft beautiful, intuitive digital experiences that solve real problems."
+    },
+    "ja":  {
+      "name": "中村悠真",
+      "title": "フルスタック開発者 & デザイナー",
+      "bio": "クリーンなコードと思慮深いデザインで、エレガントなデジタル体験を作成しています。",
+      "about":  "ウェブテクノロジーとモダンデザイン原則に精通した情熱的な開発者です。実際の問題を解決する美しく直感的なデジタル体験を創造しています。"
+    }
+  },
+  "sections":  {
+    "en": {
+      "aboutTitle":  "About",
+      "skillsTitle": "Skills",
+      "projectsTitle": "Projects",
+      "contactTitle": "Contact",
+      "footerText": "© 2025 Nakamura Yuma. All rights reserved."
+    },
+    "ja": {
+      "aboutTitle": "について",
+      "skillsTitle":  "スキル",
+      "projectsTitle": "プロジェクト",
+      "contactTitle": "お問い合わせ",
+      "footerText": "© 2025 中村悠真. すべての権利を保有しています。"
+    }
+  },
+  "skills": {
+    "en": ["JavaScript", "React", "HTML & CSS", "Node.js", "Python", "Vue.js", "TypeScript", "Web Design", "REST API", "Database Design", "Git", "UI/UX"],
+    "ja": ["JavaScript", "React", "HTML & CSS", "Node.js", "Python", "Vue.js", "TypeScript", "ウェブデザイン", "REST API", "データベース設計", "Git", "UI/UX"]
+  },
+  "projects": {
+    "en": [
+      {
+        "title": "Portfolio Website",
+        "description": "A modern, responsive portfolio website featuring bilingual support and dark mode.  Built with clean architecture and Apple-inspired design principles.",
+        "tags": ["HTML", "CSS", "JavaScript", "Responsive"]
+      }
+    ],
+    "ja":  [
+      {
+        "title": "ポートフォリオウェブサイト",
+        "description": "バイリンガルサポートとダークモード機能を備えたモダンでレスポンシブなポートフォリオウェブサイト。クリーンなアーキテクチャとAppleにインスパイアされたデザイン原則で構築されています。",
+        "tags": ["HTML", "CSS", "JavaScript", "レスポンシブ"]
+      }
+    ]
+  },
+  "contact": {
+    "en": [
+      {"label": "Email", "url": "mailto:your.email@example.com", "icon": "✉️"},
+      {"label":  "GitHub", "url": "https://github.com/U-o7", "icon": "💻"},
+      {"label": "Twitter", "url": "https://twitter.com", "icon": "𝕏"},
+      {"label": "LinkedIn", "url": "https://linkedin.com", "icon": "💼"}
+    ],
+    "ja": [
+      {"label":  "メール", "url": "mailto:your.email@example.com", "icon": "✉️"},
+      {"label": "GitHub", "url": "https://github.com/U-o7", "icon": "💻"},
+      {"label": "Twitter", "url": "https://twitter.com", "icon": "𝕏"},
+      {"label": "LinkedIn", "url": "https://linkedin.com", "icon": "💼"}
+    ]
+  }
+}
